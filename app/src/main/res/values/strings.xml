@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrabajoPracticoUno</string>
+    <string name="titulo">TRABAJO PRACTICO UNO</string>
+    <string name="ingrese_palabra">Por favor, ingrese la palabra</string>
+    <string name="b_chequear">Chequear</string>
+    <string name="ingrese_temp">Por favor, escriba la temperatura en Celsius</string>
+    <string name="b_pasarFahrenheit">Pasar a Fahrenheit</string>
+
+</resources>
